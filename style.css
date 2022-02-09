@@ -1,0 +1,327 @@
+body{
+    background-color: rgb(0, 0, 0);
+    
+
+}
+.banner{
+    background-image: url(/banner.jpg)!important;
+    height:900px;
+    width: 100%;
+
+   
+    
+}
+
+#logo{
+    margin-top: -10px;
+    width: 150px;
+    height: 70px;
+    
+
+    
+    
+}
+#usuario{
+    width: 40px;
+    height: 40px;
+   
+    margin-bottom: 8px;
+    border-radius: 0px;
+
+
+}
+#navbar{
+    margin-bottom: 0px;
+    background-color: transparent !important;
+  
+}
+a{
+    color: blanchedalmond !important;
+    font-size: 18px !important;
+    margin: 5px;
+}
+.nav-link:hover{
+    color: rgb(255, 0, 0) !important;
+}
+#home{
+    
+    font-weight: 700;
+  
+    
+}
+.bi-search, .bi-bell-fill{
+  color: white;
+  font-size: 20px;
+  margin: 10px;
+  cursor: pointer;
+
+}
+.bi-search:hover, .bi-bell-fill:hover{
+    color: rgb(255, 0, 0);
+}
+.bi-caret-down-fill{
+    color: white;
+    font-size: 15px;
+   
+    cursor: pointer;
+    
+
+}
+.pesquisa{
+    margin-left:100px;
+    margin-right: 5px;
+  
+    
+
+    
+}
+
+#paragrafo{
+ color: white;
+ font-family:sans-serif;
+ font-size: 30px;
+ display: flex;
+
+}
+p{
+    margin: 5px;
+    
+}
+ #netflix{
+     font-weight: 600;
+   
+     
+ }
+ #paragrafo2{
+    color: white;
+    font-family:sans-serif;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+   
+    
+
+ }
+ .star{
+     color: rgb(255, 0, 0);
+     margin-left: 30px;
+     
+ }
+ .star:hover{
+    color: black;
+ }
+ .temporada{
+     margin:  20px;
+     font-weight: 800;
+     cursor: pointer;
+ }
+
+ .bi-caret-right-fill{
+     color: white;
+     margin-right: 5px;
+    
+
+ }
+ .bi-plus-lg{
+    color: white;
+    margin-right: 5px;
+    
+
+ }
+ 
+
+ #botão{
+     background-color: red;
+     color: white;
+     padding: 15px !important;
+     padding-top: 5px !important;
+     padding-bottom: 5px !important;
+     margin: 10px;
+ }
+ #botão:hover{
+     background-color: black;
+     color:white;
+ }
+
+ #botãoo:hover{
+     background-color: black;
+     color: white;
+ }
+
+ .bi-camera-reels-fill{
+     color: black;
+     font-size: 20px;
+
+
+ }
+ #diretor{
+    color: black;
+    font-weight: 700;
+    font-style: italic;
+    margin-top: 13px;
+    
+    
+ }
+ #paragrafo3{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+   
+ }
+ h4{
+     font-family: sans-serif;
+     color: white;
+     font-weight: 600;
+     margin-top: 400px;
+     margin-left: 20px;
+  
+     
+ }
+ h5{
+    font-family: sans-serif;
+    color: white;
+    font-weight: 600;
+    margin-top: 50px;
+    margin-left: 5px;
+ 
+    
+}
+
+ img{
+     height: 200px;
+     width: 140px;
+     border-radius: 5px;
+     padding:0px !important;
+     cursor: pointer;
+  
+ }
+ img:hover{
+    width: 160px;
+    height: 220px;
+    transition: 1.0s;
+
+
+ }
+ .horizontal{
+    height: 130px;
+    width: 200px;
+    border-radius: 5px;
+    padding:0px !important;
+    cursor: pointer;
+
+ }
+ .horizontal:hover{
+    height: 140px;
+    width: 210px;
+    transition: 1.0s;
+ }
+.col{
+    padding: 0px!important;
+}
+
+
+ #filmes{
+  padding-left: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+     
+ }
+ #filmess{
+    padding-left: 10px  
+
+       
+}
+
+#seta2{
+    display: flex;
+    margin-right: 10px;
+    
+}
+
+#setaa{
+    margin-top: 90px;
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
+}
+#setaa:hover, #setaa2:hover{
+    color: rgb(94, 92, 92); 
+    
+}
+#setaa2{
+    margin-top: 45px;
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
+}
+
+#redes{
+    color: white;
+    border-top: 2px solid white;
+    margin-top: 100px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+}
+#redes1{
+    color: white;
+    border-bottom: 2px solid white;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+}
+
+#icone{
+    margin: 20px;
+    cursor: pointer;
+    font-size: 25px;
+
+    
+}
+#icone:hover{
+    color: rgb(94, 92, 92);    
+}
+
+#dropdownMenuButton1{
+    padding: 0px !important;
+    margin:0px !important;
+    margin-right: 5px;
+}
+.dropdown-toggle{
+    color:white;
+    font-size: 25px;
+ 
+}
+.btn-background{
+    background-color: black;
+    color: white;
+    width: 200px;
+    float: right;
+}
+ .dropdown-item:hover{
+     background-color:transparent ;
+     color: rgb(158, 151, 151)!important;
+     
+ }
+ .dropdown-item{
+     font-family:  sans-serif;
+ }
+
+
+ #botão1{
+     margin-right: 20px !important;
+     background-color: transparent;
+ }
+ #botão2{
+     background-color: transparent !important;
+}
+.carousel-control-next-icon{
+    margin-left: 150px !important;
+}
+.carousel-control-prev-icon{
+    margin-right: 160px !important;
+}

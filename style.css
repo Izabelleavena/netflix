@@ -4,7 +4,7 @@ body{
 
 }
 .banner{
-    background-image: url(/banner.jpg)!important;
+    background-image: url(/img/banner.jpg)!important;
     height:900px;
     width: 100%;
 

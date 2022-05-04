@@ -196,8 +196,8 @@ p{
   
  }
  img:hover{
-    width: 140px;
-    height: 200px;
+    width: 150px;
+    height: 210px;
     transition: 0.8s;
 
 
@@ -211,9 +211,9 @@ p{
 
  }
  .horizontal:hover{
-    height: 140px;
-    width: 210px;
-    transition: 1.0s;
+    height: 135px;
+    width: 205px;
+    transition:0.8s;
  }
 .col{
     padding: 0px!important;

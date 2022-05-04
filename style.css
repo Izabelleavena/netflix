@@ -196,9 +196,9 @@ p{
   
  }
  img:hover{
-    width: 160px;
-    height: 220px;
-    transition: 1.0s;
+    width: 140px;
+    height: 200px;
+    transition: 0.8s;
 
 
  }
